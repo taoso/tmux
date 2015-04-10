@@ -1,4 +1,4 @@
 tmux
 ====
 
-Jalen Lyu's tmux configuration
+Lv's tmux configuration
