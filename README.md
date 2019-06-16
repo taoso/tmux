@@ -1,4 +1,3 @@
-tmux
-====
+# tmux
 
-Lv's tmux configuration
+Lv's tmux conf.
